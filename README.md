@@ -59,8 +59,8 @@ git clone https://github.com/anirudhdivecha/heart-disease-prediction.git
 ```
 
 ### Run Analysis:
-1. Open the `stats202_final_project.R` file in RStudio.
-2. Make sure `hw3.c` and `cleaned_heart.csv` file is located in same directory as `stats202_final_project.R` file.
+1. Open the `Heart Disease Prediction.R` file in RStudio.
+2. Make sure `hw3.c` and `cleaned_heart.csv` file is located in same directory as `Heart Disease Prediction.R` file.
 3. Run R file for graphs and analysis.
 
 ---
