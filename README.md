@@ -1,6 +1,6 @@
 # Heart Disease Prediction Project
 
-This repository contains the final project for predicting heart disease using machine learning models. The project focuses on analyzing patient data, identifying significant predictors, and building interpretable models.
+This repository contains a project for predicting heart disease using machine learning models. The project focuses on analyzing patient data, identifying significant predictors, and building interpretable models. A project report written in LaTeX dicussing methods and results is also provided in this repo. 
 
 ---
 
